@@ -150,7 +150,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Dory Video",
-          "text": "Specialists in Underwater and Location Video",
+          "text": "<span style=\"font-style: normal;\">Specialists in Underwater and Location Video</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -159,10 +159,17 @@
           "_anchor": "header1-0",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "100px"
+              "font-size": "100px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-lead": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "right"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
@@ -170,6 +177,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -206,7 +217,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": false,
@@ -310,7 +321,13 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-2"
+          "_anchor": "features3-2",
+          "_styles": {
+            "H4": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -425,6 +442,14 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
@@ -432,6 +457,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -464,10 +493,10 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "70",
+            "imageSize": "54",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -502,18 +531,28 @@
             }
           },
           "title": "Diving with grey seals in the Farne Isles",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "There is something really special about diving with grey seals. The seals in the Farne Isles are particularly playful and inquisitive.",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#content5-o\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#content5-o\" data-toolbar=\"-mbrBtnMove\">SEE MORE VIDEOS</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3"
+          "_anchor": "msg-box4-3",
+          "_styles": {
+            "H3": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
@@ -534,10 +573,10 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "70",
+            "imageSize": "56",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -572,13 +611,19 @@
             }
           },
           "title": "The wreck of the E49 in Shetland",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>Probably one of the most dived wrecks in Shetland. The E49 submarine lies in around 31m of water and the visibility is usually excellent.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#content5-o\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#content5-o\" data-toolbar=\"-mbrBtnMove\">SEE MORE VIDEOS</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6"
+          "_anchor": "msg-box4-6",
+          "_styles": {
+            "H3": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -597,7 +642,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "subtitle": "<b>Fill in this form to get in touch</b>",
+          "subtitle": "<b style=\"font-style: normal;\">Fill in this form to get in touch</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME<br></a>",
           "form": {
             "action": "james.2.clark@kcl.ac.uk",
@@ -634,6 +679,10 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
@@ -644,7 +693,9 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
