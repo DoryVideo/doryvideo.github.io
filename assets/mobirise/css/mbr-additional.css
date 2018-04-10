@@ -486,18 +486,17 @@ h6,
 }
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #3d8eb9!important;
 }
-#header1-0 .mbr-section-title {
+#msg-box5-17 H3 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
   font-size: 100px;
-  font-family: 'PT Sans', sans-serif;
 }
-#header1-0 .mbr-section-lead {
-  font-size: 32px;
-  text-align: right;
-}
-#header1-0 .mbr-section-lead SPAN {
+#msg-box5-17 P {
+  color: #ffffff;
   font-family: 'PT Sans', sans-serif;
+  font-size: 48px;
 }
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {

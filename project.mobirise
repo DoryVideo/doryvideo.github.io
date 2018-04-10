@@ -29,7 +29,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 42,
+    "uniqCompNum": 44,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -90,7 +90,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#3d8eb9!important"
             }
           },
           "_params": {
@@ -134,42 +134,64 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "right",
+            "inverse": true,
+            "imageSize": "38",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9511241439-2bf9bde0da-o-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dory-2-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.1"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc-40-1400x2106.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
           },
           "title": "Dory Video",
-          "text": "<span style=\"font-style: normal;\">Specialists in Underwater and Location Video</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "text": "Specialists in Underwater and Location Video",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-0",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-17",
           "_styles": {
-            ".mbr-section-title": {
-              "font-size": "100px",
+            "H3": {
+              "color": "#ffffff",
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "100px"
             },
-            ".mbr-section-lead": {
-              "font-size": "32px",
-              "text-align": "right"
-            },
-            ".mbr-section-lead SPAN": {
+            "P": {
+              "color": "#ffffff",
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "48px"
             }
           }
         },
