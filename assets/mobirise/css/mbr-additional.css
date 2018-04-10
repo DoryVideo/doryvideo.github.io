@@ -17,6 +17,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -432,6 +434,7 @@ h6,
 }
 #menu-g .navbar-caption {
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-g .navbar-toggler {
   color: #ffffff;
@@ -443,6 +446,7 @@ h6,
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-g .link {
   font-size: 1rem;
@@ -551,11 +555,14 @@ h6,
   font-size: 16px;
   font-family: 'PT Sans', sans-serif;
 }
+
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-g .navbar-caption {
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-g .navbar-toggler {
   color: #ffffff;
@@ -567,6 +574,7 @@ h6,
 #menu-g .link,
 #menu-g .dropdown-item {
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-g .link {
   font-size: 1rem;
@@ -610,7 +618,7 @@ h6,
 }
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #3d8eb9!important;
 }
 #content5-o .mbr-section-title,
 #content5-o p {
