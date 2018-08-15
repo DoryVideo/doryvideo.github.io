@@ -29,7 +29,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 44,
+    "uniqCompNum": 48,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -181,7 +181,7 @@
             }
           },
           "title": "Dory Video",
-          "text": "Specialists in Underwater and Location Video",
+          "text": "Specialist Underwater and Location Videographer",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -233,7 +233,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"index.html#form1-8\"></a>James Clark (aka Dory Video) is a BS-AC Advanced Mixed Gas CCR (rebreather) diver and underwater videographer who enjoys filming the wrecks and  wildlife around the temperate waters of the British Isles and abroad.</p><p><br></p><p>I am an experienced and accomplished Diver (CMAS 3-star, BS-AC Advanced Diver, Asst. Advanced Instructor, nitrox and trimix qualified). If you would like to discuss a project please get in touch using the Contact form</p><p>&nbsp;</p><p>Using high definition (HD) and 4K Broadcast-ready video recorders for all my video work you can depend on the highest level of production and professionalism. All cameras are all housed in rugged waterproof housings for underwater/wet work with the highest quality optics for distortion-free images.</p>",
+          "text": "<p><a href=\"index.html#form1-8\"></a>James Clark (aka Dory Video) is a BS-AC Advanced Mixed Gas CCR (rebreather) diver and underwater videographer who enjoys filming the wrecks and  wildlife around the temperate waters of the British Isles and abroad.&nbsp;<span style=\"font-size: 1.07rem;\">James &nbsp;is an experienced and accomplished Diver (CMAS 3-star, BS-AC Advanced Diver).</span></p><p>&nbsp;</p><p>Using high definition (HD) and 4K Broadcast-ready video recorders for all my video footage you can depend on the highest level of production and professionalism. All cameras are all housed in rugged waterproof housings for underwater/wet work with quality optics for distortion-free images.</p>",
           "_tags": [
             "Theme"
           ],
@@ -325,16 +325,16 @@
           },
           "title1": "Wildlife",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The UK’s wildlife is simply fantastic and I love to capture it’s majesty in full colour HD video. I am always looking for opportunities to record wildlife in the UK.",
+          "caption1": "The UK’s wildlife is simply fantastic and James loves to capture it’s majesty in HD video. He&nbsp;is always looking for opportunities to record wildlife in the waters around the UK.",
           "title2": "Wrecks",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "There are 1000’s of wrecks and reefs in the UK; this is the ‘staple diet’ of most British divers. I have already recorded many dive sites around the British Isles, many of which feature on my YouTube channel",
+          "caption2": "There are 1000’s of wrecks and reefs in the UK; this is the ‘staple diet’ of most British divers. James has already recorded many dive sites around the British Isles, many of which feature on his <a href=\"http://www.youtube.com/doryproductions\" target=\"_blank\">YouTube channel</a>",
           "title3": "Training",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Whether it is in a swimming pool or in the open water, I am very happy to record training materials for you and your dive club or training agency . I have already produced training videos for BS-AC, RoSPA and King’s College London.",
+          "caption3": "Whether it is in a swimming pool or in the open water, James am very happy to record training materials for your training agency . James have already produced training videos for BS-AC, RoSPA and King’s College London.",
           "title4": "Stock Footage",
           "subtitle4": "",
-          "caption4": "I hold a wide range of high-definition stock footage showing much of the UK's wildlife and wrecks in detail. Contact me if you are looking for footage for your video production.",
+          "caption4": "James hold a wide range of high-definition stock footage showing much of the UK's wildlife and wrecks in detail. <a href=\"index.html#form1-8\">Contact him</a> if you are looking for footage for your video production.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -442,10 +442,10 @@
           },
           "title1": "Broadcast Video",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "I use the Sony Ex1R solid state 1/2\" three<br>CCD broadcast camera which produces excellent images suitable for TV and film production",
+          "caption1": "I use the Sony Ex1R solid state 1/2\" three<br>CCD broadcast camera which produces excellent images suitable for TV and film production.<br><br>I also have b-roll cameras and 4K action cameras to capture footage of divers, wildlife or wrecks.",
           "title2": "Robust Housings",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "I use only Gates underwater housings. The Ex1R housing also supports a nanoflash, external screen,microphone and Fathom Imaging wide angle port for crystal clear quality high definition video",
+          "caption2": "I use Gates underwater housings. The Ex1R housing also supports a nanoflash, external screen, and Fathom Imaging wide angle port for crystal clear quality HD video",
           "title3": "Location Recording",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "With a combination of top-side and waterproof high-definition video equipment I am able to provide footage of dive sites, in-water training or educational work.",
@@ -511,8 +511,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "See some of my video work",
-          "caption": "<p>I have a YouTube channel on which you can view many video shorts produced while diving around the UK. Click on the YouTube logo above to be taken to my ever-growing collection of underwater videos. Below you can see two selected videos from the collection.&nbsp;</p>",
+          "title": "See some of my videos",
+          "caption": "<p>I have a <a href=\"http://www.youtube.com/doryproductions\" target=\"_blank\">YouTube channel </a>on which you can view many video shorts produced while diving around the UK. &nbsp;Below you can see two selected videos from the collection.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -654,6 +654,116 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-43-977x733.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-43-977x733-800x600.jpg",
+                "alt": "",
+                "caption": "The wreck of the Hispania",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-723-977x733.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-723-977x733-800x600.jpg",
+                "alt": "",
+                "caption": "CCR Diving in Mull",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1040091-1-1099x735.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1040091-1-1099x735-800x600.jpg",
+                "alt": "",
+                "caption": "Auxillary Steering Gear",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1030844-1-1099x735.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030844-1-1099x735-800x600.jpg",
+                "alt": "",
+                "caption": "Divers Decompressing",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-34-977x733.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-34-977x733-800x600.jpg",
+                "alt": "",
+                "caption": "Devonshire Cup Coral",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-48-977x733.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-48-977x733-800x600.jpg",
+                "alt": "",
+                "caption": "Conger Eel",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1030713-1099x735.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030713-1099x735-800x600.jpg",
+                "alt": "",
+                "caption": "E49 Submarine, Shetland",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/2018-3-4_8-20-50-851950.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/7FD0Q-qFewI",
+                "image": "@PROJECT_PATH@/assets/images/p1030805-1099x735.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030805-1099x735-800x600.jpg",
+                "alt": "",
+                "caption": "E49 Submarine Conning Tower, Shetland",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1b"
         },
         {
           "_params": {
@@ -879,7 +989,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Video Showcase",
-          "caption": "<p>I have a YouTube channel on which you can view many video shorts produced while diving around the UK. Click on the YouTube logo above to be taken to my ever-growing collection of underwater videos. Below you can see two selected videos from the collection.&nbsp;<span style=\"font-size: 1.07rem;\">Here are a few of my favourite videos!</span></p>",
+          "caption": "<p>I have a <a href=\"http://www.youtube.com/doryproductions\" target=\"_blank\">YouTube channel </a>on which you can view many video shorts produced while diving around the UK. <span style=\"font-size: 1.07rem;\">Here are a few more of my favourite videos!</span></p>",
           "_tags": [
             "Theme"
           ],
