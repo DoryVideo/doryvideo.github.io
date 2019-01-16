@@ -786,9 +786,9 @@
           "subtitle": "<b style=\"font-style: normal;\">Fill in this form to get in touch</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME<br></a>",
           "form": {
-            "action": "james.2.clark@kcl.ac.uk",
+            "action": "sound_board@icloud.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form. I'll get in touch shortly. "
             },
             "fields": {
               "name": {
